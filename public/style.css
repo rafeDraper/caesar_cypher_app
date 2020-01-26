@@ -1,4 +1,8 @@
 
+body{
+  font-family: 'Bebas Neue', cursive;
+}
+
 .container {
   overflow: hidden;
   position: absolute;
@@ -9,5 +13,6 @@
   align-items: center; /*centers items on the cross-axis (y by default)*/
 }
 .game {
-  background-color: burlywood;
+  background-color: #cbffbc;
+  padding: 20px;
 }
